@@ -3,4 +3,4 @@ google-generativeai
 python-dotenv
 PyMuPDF
 pdf2image
-
+python-docx
